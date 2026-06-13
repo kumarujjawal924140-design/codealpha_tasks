@@ -43,7 +43,7 @@ Enter a letter to guess: p
 Good job!
 g r a p _
 
-Enter a letter to guess: t
+Enter a letter to guess: r
 
 Sorry, wrong guess!
 You have 8 attempts left.
