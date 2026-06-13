@@ -1,0 +1,16 @@
+---- Welcome to Stock Portfolio Tracker ----
+Available stocks: AAPL, TSLA, MSFT, GOOG, AMZN
+
+Enter stock symbol (or type 'done' to finish): tsla
+Enter quantity of TSLA: 998
+Added 998 shares of TSLA worth $249500
+
+Enter stock symbol (or type 'done' to finish): msft
+Enter quantity of MSFT: 0877
+Added 877 shares of MSFT worth $280640
+
+Enter stock symbol (or type 'done' to finish): amzn
+Enter quantity of AMZN: 876
+Added 876 shares of AMZN worth $113880
+
+Enter stock symbol (or type 'done' to finish): 
