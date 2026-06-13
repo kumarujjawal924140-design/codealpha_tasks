@@ -1,0 +1,4 @@
+fake@nonexistentdomain.com
+info@python.org
+support@example.com
+ujjawalkumar7500@gmail.com
